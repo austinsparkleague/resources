@@ -1,4 +1,4 @@
-https://developer.pebble.com/tutorials/beginner/primer
+https://developer.pebble.com/tutorials/beginner/primer (Learn the Basics)
 
 http://www.learn-c.org/
 
